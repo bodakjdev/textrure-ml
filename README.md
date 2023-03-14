@@ -1,1 +1,1 @@
-# textrure-ml
+# Texture recognition script
